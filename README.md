@@ -6,5 +6,5 @@ Bit split into smaller files
 To combine into a single file:
 
 ```
-
+cat train.a* > train.csv
 ```
